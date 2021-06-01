@@ -1,0 +1,2 @@
+write in here the details about the data, link to the repo where I did the analysis to generate the model, and any extra information surrounding that training situation. 
+(make a nice template for this model notes so that I can jsut fill in categories each time)
