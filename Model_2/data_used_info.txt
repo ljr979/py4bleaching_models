@@ -1,0 +1,1 @@
+This model is the 'short_only_normalised_trajectories' model. THis means the y axis was normalised, and all trajectories were 'short' (600 timepoints)
