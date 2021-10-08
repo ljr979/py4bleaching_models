@@ -1,0 +1,1 @@
+added this model from the 'noise_added(10)' training set. This used all 647_488 training trajectories but padded all of the ones that were shorter, with noise at the end based on the last 50 values i nthe trajectory (to create SD and MEAN for noise generation by a gaussian dist.)
